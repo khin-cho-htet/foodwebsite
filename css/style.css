@@ -300,7 +300,7 @@ section{
         background: #2b2640;
         transition: 0.3s;
     }
-    header .navbar:active{
+    header .navbar.active{
         top: 70px;
     }
     .navbar a{
